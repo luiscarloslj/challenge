@@ -1,6 +1,26 @@
-* {
-	color: #f00;
+
+
+header{
+	margin-right: 25px;
+	font-family: 'Akaya Telivigala', cursive;
+	font-weight: 25px;
+	font-size: 30px;
+	color: green;
 }
-.leon {
-	display: inline;
+
+nav{
+	margin:30px;
+	margin-left: 50px;
+	font-size: 20px;
+	color: black;
+	background-color: red;
+}
+
+section.cuerpo{
+	margin: 25px;
+	font-family: 'Cormorant Upright', serif;
+	font-weight: 20px;
+	color: red;
+	background-color: black;
+
 }
